@@ -1,3 +1,5 @@
+# Bubble Sort Algorithm for Ruby
+
 x = 10000.times.map{rand(20000)}
 y=x.dup
 for i in 0 ... 9999 do
